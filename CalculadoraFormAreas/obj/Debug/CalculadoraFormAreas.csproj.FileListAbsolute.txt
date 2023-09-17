@@ -1,0 +1,10 @@
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\bin\Debug\CalculadoraFormAreas.exe.config
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\bin\Debug\CalculadoraFormAreas.exe
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\bin\Debug\CalculadoraFormAreas.pdb
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\obj\Debug\CalculadoraFormAreas.csproj.AssemblyReference.cache
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\obj\Debug\CalculadoraFormAreas.Form1.resources
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\obj\Debug\CalculadoraFormAreas.Properties.Resources.resources
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\obj\Debug\CalculadoraFormAreas.csproj.GenerateResource.cache
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\obj\Debug\CalculadoraFormAreas.csproj.CoreCompileInputs.cache
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\obj\Debug\CalculadoraFormAreas.exe
+D:\9°SEMESTRE\CalculadoraWSAreasConForm\CalculadoraFormAreas\obj\Debug\CalculadoraFormAreas.pdb
