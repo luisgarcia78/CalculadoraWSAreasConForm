@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraWSAreas", "CalculadoraWSAreas\CalculadoraWSAreas.csproj", "{259D6D9B-C30B-4939-B479-5B1892045ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraFormAreas", "CalculadoraFormAreas\CalculadoraFormAreas.csproj", "{6A1AB192-3299-450E-A514-218D95C45A78}"
+	ProjectSection(ProjectDependencies) = postProject
+		{259D6D9B-C30B-4939-B479-5B1892045ECB} = {259D6D9B-C30B-4939-B479-5B1892045ECB}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259D6D9B-C30B-4939-B479-5B1892045ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259D6D9B-C30B-4939-B479-5B1892045ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259D6D9B-C30B-4939-B479-5B1892045ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259D6D9B-C30B-4939-B479-5B1892045ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1AB192-3299-450E-A514-218D95C45A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1AB192-3299-450E-A514-218D95C45A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1AB192-3299-450E-A514-218D95C45A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1AB192-3299-450E-A514-218D95C45A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46342075-DBCD-4E43-B550-7A1BAEEF24AB}
+	EndGlobalSection
+EndGlobal
